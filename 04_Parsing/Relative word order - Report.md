@@ -21,6 +21,6 @@ Here is the scatterplot:
     <a href="https://github.com/sarroniz/LING-L545/04_Parsing/images/plot_practical04.png"><img src="https://github.com/sarroniz/LING-L545/04_Parsing/images/plot_practical04.png"></a>
 </figure>
 
-https://github.com/sarroniz/LING-L545/04_Parsing/images/plot_practical04.png
+![plot](images/plot_practical04.png)
 
 I tried to use a 'jitter' option to avoid the overlapping, but I couldn't manage to get it work.
