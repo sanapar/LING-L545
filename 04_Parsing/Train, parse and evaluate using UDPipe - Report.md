@@ -34,6 +34,8 @@ These are the results for the analysis:
     LAS        |     82.38 |     82.38 |     82.38 |     82.38
 
 
+Note: To help with visualization, I also used UD Annotatrix (https://maryszmary.github.io/ud-annotatrix/standalone/annotator.html). 
+
 # sent_id = es-dev-003-s415
 # text = La Provincia de Mamoré es una provincia del departamento del Beni en Bolivia.
 ```
