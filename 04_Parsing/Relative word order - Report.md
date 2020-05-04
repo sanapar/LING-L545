@@ -18,7 +18,7 @@ UD_Portuguese-Bosque -> OV=0.2 // VO=0.8
 Here is the scatterplot:
 
 <figure style="width: 600px" class="center">
-    <a href="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/plot_practical04.png"><img src="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/plot_practical04.png"></a>
+    <a href="https://github.com/sarroniz/LING-L545/04_Parsing/images/plot_practical04.png"><img src="https://github.com/sarroniz/LING-L545/04_Parsing/images/plot_practical04.png"></a>
 </figure>
 
 I tried to use a 'jitter' option to avoid the overlapping, but I couldn't manage to get it work.
