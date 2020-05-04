@@ -81,9 +81,7 @@ This sentence seems to be accurate in the analysis. The verb "ser" is parsed cor
 13	.	.	PUNCT	_	_	3	punct	_	_
 ```
 
-<figure style="width: 600px" class="center">
-    <a href="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/2.png"><img src="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/2.png"></a>
-</figure>
+![parsing1](images/2.png)
 
 In this case, we have a PUNCT that separates two sentences, and it seems that the nucleus of both is being considered the noun of the first clause. In a way, this makes sense, since they depend on the same verb. The ADJ + NOUN in the first clause is well analyzed, and it seems that the ADP in the second clause is as well. I don't see any major error in this case.
 
@@ -110,9 +108,7 @@ In this case, we have a PUNCT that separates two sentences, and it seems that th
 17	.	.	PUNCT	_	_	6	punct	_	_
 ```
 
-<figure style="width: 600px" class="center">
-    <a href="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/3.png"><img src="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/3.png"></a>
-</figure>
+![parsing1](images/3.png)
 
 In this case, it is interesting that the first PUNCT, which is a comma, seems to be dependent of the noun phrase of the second or subordinate clause. The rest looks ok.
 
@@ -132,9 +128,7 @@ In this case, it is interesting that the first PUNCT, which is a comma, seems to
 10	.	.	PUNCT	_	_	1	punct	_	_
 ```
 
-<figure style="width: 600px" class="center">
-    <a href="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/4.png"><img src="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/4.png"></a>
-</figure>
+![parsing1](images/4.png)
 
 This is a very short sentence and there seems to be no issues with the parser.
 
@@ -151,9 +145,7 @@ This is a very short sentence and there seems to be no issues with the parser.
 8	.	.	PUNCT	_	_	3	punct	_	_
 ```
 
-<figure style="width: 600px" class="center">
-    <a href="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/5.png"><img src="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/5.png"></a>
-</figure>
+![parsing1](images/5.png)
 
 Again, in this short sentence there seems to be no issues. Even the number and the ADP is well analyzed.
 
@@ -182,9 +174,7 @@ Again, in this short sentence there seems to be no issues. Even the number and t
 20	;	;	PUNCT	_	_	6	punct	_	_
 ```
 
-<figure style="width: 600px" class="center">
-    <a href="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/6.png"><img src="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/6.png"></a>
-</figure>
+![parsing1](images/6.png)
 
 The interesting thing in this sentence is the use of symbols. For the first case of "ºC", they are analyzed independently, and "º" depends on the numeral, and "C" on the verb. However, on the second case, "C" depends on the previous noun, even though there is a coordinate conjunction in between which should make it depend directly on the main verb.
 
@@ -206,9 +196,7 @@ The interesting thing in this sentence is the use of symbols. For the first case
 13	.	.	PUNCT	_	_	5	punct	_	_
 ```
 
-<figure style="width: 600px" class="center">
-    <a href="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/7.png"><img src="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/7.png"></a>
-</figure>
+![parsing1](images/7.png)
 
 Interestingly in this case, the PUNCT for the abbreviations of "kilometers" is analyzed correctly. Everything seems ok.
 
@@ -230,9 +218,7 @@ Interestingly in this case, the PUNCT for the abbreviations of "kilometers" is a
 13	!	!	PUNCT	_	_	12	punct	_	_
 ```
 
-<figure style="width: 600px" class="center">
-    <a href="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/8.png"><img src="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/8.png"></a>
-</figure>
+![parsing1](images/8.png)
 
 There seems to be an error in this case, when assigning "ya" to the subordinate verb "llegar", when it should depend directly on the main verb "atendiendo".
 
@@ -257,9 +243,7 @@ There seems to be an error in this case, when assigning "ya" to the subordinate 
 16	...	...	PUNCT	_	_	2	punct	_	_
 ```
 
-<figure style="width: 600px" class="center">
-    <a href="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/9.png"><img src="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/9.png"></a>
-</figure>
+![parsing1](images/9.png)
 
 Even though we have a conditional sentence in this case, the dependencies seem to be analyzed correctly and there seems to be no issues.
 
@@ -284,8 +268,6 @@ Even though we have a conditional sentence in this case, the dependencies seem t
 16	.	.	PUNCT	_	_	13	punct	_	_
 ```
 
-<figure style="width: 600px" class="center">
-    <a href="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/10.png"><img src="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/10.png"></a>
-</figure>
+![parsing1](images/10.png)
 
 I think this is a very complex sentence to analyze, because of the many PUNCTs. However, the results seem to be accurate, and there's no errors.
