@@ -57,9 +57,8 @@ These are the results for the analysis:
 16	.	.	PUNCT	_	_	7	punct	_	_
 ```
 
-<figure style="width: 600px" class="center">
-    <a href="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/1.png"><img src="https://github.com/sarroniz/LING-L545/tree/master/04_Parsing/images/1.png"></a>
-</figure>
+![parsing1](images/1.png)
+
 
 This sentence seems to be accurate in the analysis. The verb "ser" is parsed correctly: it depends directly on the noun "provincia". The three ADPs are connected correctly with their nucleus. There seems to be no issues in this analysis.
 
