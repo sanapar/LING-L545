@@ -1,0 +1,1463 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ast" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    
+  <title>Asturies.com | Diariu dixital</title>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://asturies.com/sites/default/files/Asturies_com.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Asturies.com ye’l mediu de comunicación asturianu on-line más veteranu, espublizándose de forma ininterrumpida dende 1997." />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="http://asturies.com/" />
+<link rel="shortlink" href="http://asturies.com/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Asturies.com" />
+<meta property="og:url" content="http://asturies.com" />
+<meta property="og:title" content="Asturies.com" />
+<meta property="og:description" content="Asturies.com ye’l mediu de comunicación asturianu on-line más veteranu, espublizándose de forma ininterrumpida dende 1997." />
+<meta property="og:updated_time" content="1579196353" />
+<meta property="og:image" content="http://asturies.com/sites/default/files/asturiescom.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="http://asturies.com/" />
+<meta name="twitter:title" content="Asturies.com" />
+<meta name="twitter:description" content="Diariu dixital" />
+  <style type="text/css" media="all">
+@import url("http://asturies.com/modules/system/system.base.css?q3alxf");
+@import url("http://asturies.com/modules/system/system.menus.css?q3alxf");
+@import url("http://asturies.com/modules/system/system.messages.css?q3alxf");
+@import url("http://asturies.com/modules/system/system.theme.css?q3alxf");
+</style>
+<style type="text/css" media="all">
+@import url("http://asturies.com/sites/all/themes/starboard/starboard/css/default.css?q3alxf");
+@import url("http://asturies.com/sites/all/themes/starboard/starboard/css/style3.css?q3alxf");
+@import url("http://asturies.com/sites/all/modules/custom/ajustaiframes/iframes.css?q3alxf");
+@import url("http://asturies.com/modules/book/book.css?q3alxf");
+@import url("http://asturies.com/modules/comment/comment.css?q3alxf");
+@import url("http://asturies.com/sites/all/modules/date/date_api/date.css?q3alxf");
+@import url("http://asturies.com/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q3alxf");
+@import url("http://asturies.com/sites/all/modules/date/date_repeat_field/date_repeat_field.css?q3alxf");
+@import url("http://asturies.com/modules/field/theme/field.css?q3alxf");
+@import url("http://asturies.com/modules/node/node.css?q3alxf");
+@import url("http://asturies.com/modules/poll/poll.css?q3alxf");
+@import url("http://asturies.com/modules/search/search.css?q3alxf");
+@import url("http://asturies.com/modules/user/user.css?q3alxf");
+@import url("http://asturies.com/modules/forum/forum.css?q3alxf");
+@import url("http://asturies.com/sites/all/modules/views/css/views.css?q3alxf");
+@import url("http://asturies.com/sites/all/modules/ckeditor/css/ckeditor.css?q3alxf");
+@import url("http://asturies.com/sites/all/themes/starboard/starboard/css/custom.css?q3alxf");
+</style>
+<style type="text/css" media="all">
+@import url("http://asturies.com/sites/all/modules/colorbox/styles/default/colorbox_style.css?q3alxf");
+@import url("http://asturies.com/sites/all/modules/ctools/css/ctools.css?q3alxf");
+@import url("http://asturies.com/sites/all/modules/node_gallery/node_gallery.css?q3alxf");
+@import url("http://asturies.com/sites/all/modules/eu_cookie_compliance/css/eu_cookie_compliance.css?q3alxf");
+@import url("http://asturies.com/sites/all/modules/custom/css_contenios/contenios.css?q3alxf");
+@import url("http://asturies.com/sites/all/modules/addtoany/addtoany.css?q3alxf");
+</style>
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-top,#sliding-popup.sliding-popup-top .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#666666;}#sliding-popup.sliding-popup-top.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,#sliding-popup label,#sliding-popup div,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#ffffff !important;}.eu-cookie-withdraw-tab{border-color:#ffffff;}.eu-cookie-compliance-more-button{color:#ffffff !important;}#sliding-popup.sliding-popup-top{position:fixed;}
+
+/*]]>*/-->
+</style>
+  <script type="text/javascript" src="http://asturies.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://asturies.com/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://asturies.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://asturies.com/misc/drupal.js?q3alxf"></script>
+<script type="text/javascript" src="http://asturies.com/sites/all/modules/eu_cookie_compliance/js/jquery.cookie-1.4.1.min.js?v=1.4.1"></script>
+<script type="text/javascript" src="http://asturies.com/sites/all/modules/media_colorbox/media_colorbox.js?q3alxf"></script>
+<script type="text/javascript" src="http://asturies.com/sites/default/files/languages/ast_tcXNSbKtdRf4um2b9RWp4Q_dV8j-Pmw2IPJWfFxpn0c.js?q3alxf"></script>
+<script type="text/javascript" src="http://asturies.com/sites/all/libraries/colorbox/jquery.colorbox-min.js?q3alxf"></script>
+<script type="text/javascript" src="http://asturies.com/sites/all/modules/colorbox/js/colorbox.js?q3alxf"></script>
+<script type="text/javascript" src="http://asturies.com/sites/all/modules/colorbox/styles/default/colorbox_style.js?q3alxf"></script>
+<script type="text/javascript" src="http://asturies.com/sites/all/themes/starboard/starboard/js/superfish.js?q3alxf"></script>
+<script type="text/javascript" src="http://asturies.com/sites/all/themes/starboard/starboard/js/scripts.js?q3alxf"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"starboard","theme_token":"reninPeooBnNEbAcAniTEcoo3eHjgBtSGQD2kRZQagw","js":{"0":1,"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/eu_cookie_compliance\/js\/jquery.cookie-1.4.1.min.js":1,"sites\/all\/modules\/media_colorbox\/media_colorbox.js":1,"public:\/\/languages\/ast_tcXNSbKtdRf4um2b9RWp4Q_dV8j-Pmw2IPJWfFxpn0c.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/themes\/starboard\/starboard\/js\/superfish.js":1,"sites\/all\/themes\/starboard\/starboard\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/themes\/starboard\/starboard\/css\/default.css":1,"sites\/all\/themes\/starboard\/starboard\/css\/style3.css":1,"sites\/all\/modules\/custom\/ajustaiframes\/iframes.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/themes\/starboard\/starboard\/css\/custom.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/node_gallery\/node_gallery.css":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/modules\/custom\/css_contenios\/contenios.css":1,"sites\/all\/modules\/addtoany\/addtoany.css":1,"0":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"better_exposed_filters":{"views":{"noticies":{"displays":{"page_1":{"filters":[]}}},"noticies_curties":{"displays":{"block_1":{"filters":[]},"block_2":{"filters":[]}}},"entrevistes":{"displays":{"block_1":{"filters":[]}}},"alagueta_noticies":{"displays":{"block_1":{"filters":[]}}},"opinion":{"displays":{"block_1":{"filters":[]}}},"node_gallery_gallery_summaries":{"displays":{"block_1":{"filters":[]}}},"vinietes_efren":{"displays":{"block_1":{"filters":[]}}},"croniques_ultramarines_bloque_portada":{"displays":{"block":{"filters":[]}}},"lo_mas_visto":{"displays":{"block":{"filters":[]}}},"destacada":{"displays":{"block_1":{"filters":[]},"block":{"filters":[]}}},"eventos":{"displays":{"block":{"filters":[]}}},"bloque_noticies_cultura":{"displays":{"block_1":{"filters":[]}}},"bloque_noticies_asturies":{"displays":{"block_1":{"filters":[]}}},"bloque_noticies_deportes":{"displays":{"block_1":{"filters":[]}}},"bloque_noticies_ecoloxia":{"displays":{"block_1":{"filters":[]}}},"bloque_noticies_llingua":{"displays":{"block_1":{"filters":[]}}},"bloque_noticies_economia":{"displays":{"block_1":{"filters":[]}}},"bloque_noticies_musica":{"displays":{"block_1":{"filters":[]}}},"bloque_noticies_nuevestecnoloxie":{"displays":{"block_1":{"filters":[]}}}}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":1,"popup_hide_agreed":1,"popup_clicking_confirmation":1,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EN\u00e9sti sitiu usamos cookies p\u0027ameyorar la esperiencia del usuariu.\u003C\/h2\u003E\n\u003Cp\u003EAl faer click en cualquier enllaz n\u00e9sta p\u00e1xina ust\u00e9 ta dando\u0027l so consentimientu pal usu de cookies.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ENon, dame m\u00e1s informaci\u00f3n\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EVal, d\u0027alcuerdu\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EBy tapping the Accept button, you agree to us doing so.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ENon, dame m\u00e1s informaci\u00f3n\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EVal, d\u0027alcuerdu\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":768,"popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EGracies por aceptar les cookies.\u003C\/h2\u003E\n\u003Cp\u003EUst\u00e9 puede ocultar esti mensaxe o ver m\u00e1s informaci\u00f3n sobre les cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EOcultar\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EM\u00e1s informaci\u00f3n\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":60,"popup_width":"100%","popup_delay":1000,"popup_link":"http:\/\/asturies.com\/paxinapol%C3%ADtica-de-privacid%C3%A1-y-cookies","popup_link_new_window":0,"popup_position":1,"fixed_top_position":true,"popup_language":"ast","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","domain_all_sites":null,"popup_eu_only_js":0,"cookie_lifetime":100,"cookie_session":false,"disagree_do_not_show_popup":0,"method":"default","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false,"withdraw_button_on_info_popup":false,"cookie_categories":[],"enable_save_preferences_button":true,"fix_first_cookie_category":true,"select_all_categories_by_default":false},"urlIsAjaxTrusted":{"\/":true}});
+//--><!]]>
+</script>
+     
+  <style type="text/css">
+  body { font-family: "OpenSans", Arial, Helvetica, sans-serif; font-size: 0.8em; } 
+</style>
+  
+<style type="text/css">
+  
+      #page-wrapper { width: 1140px; }
+	.width-wrapper { width: 1140px; }
+  
+/*-- No Sidebars --*/  
+  
+  body.no-sidebars #main-content { 
+    width: 1140px; 
+  }
+  
+/*-- Two Sidebars --*/  
+  
+  body.two-sidebars #main-content { 
+    width: 480px; 
+	margin: 0 -810px 0 330px; 
+  }
+
+  body.two-sidebars #main-content-inner { 
+    padding: 0px 10px; 
+  }
+
+  body.two-sidebars .sidebar-first { 
+    margin-left: 0;
+    margin-right: -330px;
+    width: 330px; 
+  }
+
+  body.two-sidebars .sidebar-second { 
+    margin-left: 810px;
+    margin-right: -1140px;
+    width: 330px; 
+  }
+
+/*-- Left Sidebar --*/  
+
+  body.sidebar-first #main-content-inner { 
+    padding: 0px 10px; 
+  }
+
+  body.sidebar-first #main-content { 
+    width: 810px;
+    margin-left: 330px; 
+    margin-right: -1140px; 
+  }
+  
+  body.sidebar-first .sidebar-first { 
+    margin-left: 0;
+    margin-right: -330px;
+    width: 330px; 
+  }
+  
+/*-- Right Sidebar --*/  
+
+  body.sidebar-second #main-content-inner { 
+    padding: 0px 10px; 
+  }
+  
+  body.sidebar-second #main-content { 
+    width: 810px;
+	margin-left: 0;
+    margin-right: -810px; 
+  }
+  
+  body.sidebar-second .sidebar-second { 
+    margin-left: 810px;
+    margin-right: -1140px;
+    width: 330px; 
+  }
+
+</style>
+
+	
+
+
+  
+</head>
+<body class="html front not-logged-in two-sidebars page-noticies" >
+  
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  
+        
+
+<div id="body-inner" class="clearfix"><div id="body-inner-inner" class="clearfix">
+
+  <div id="page-wrapper"><div id="page-wrapper-inner">
+
+<!-- User Menu -->	
+         
+      <div id="user-menu"><div class="user-menu-inner clearfix">	
+
+                  <div id="search-box">
+              <div class="region region-search-box">
+    <div id="block-block-63" class="block block-block"><div class="block-inner">
+  
+   
+    
+  <div class="content">
+    <a href="/user/login?destination=noticies">Iniciar sesión</a> | <a href="/user/register?destination=noticies">Rexistrase</a> | <a href="/contactu?destination=noticies">Unvíanos les tos anuncies</a>  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-block-64" class="block block-block"><div class="block-inner">
+  
+   
+    
+  <div class="content">
+    <p><a href="/hemeroteca">Hemeroteca</a></p>
+  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-search-form" class="block block-search"><div class="block-inner">
+  
+   
+    
+  <div class="content">
+    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Buscar </label>
+ <input title="Inxerte los términos que quier buscar." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Buscar" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-Ys4x0H9kta60FnEYTWK_YaxyjniabOXv6-eSWOuQ0A0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-block-36" class="block block-block"><div class="block-inner">
+  
+   
+    
+  <div class="content">
+    <div>
+	<a href="/rss.xml"><img alt="RSS" src="http://asturies.com/sites/default/files/iconos/ico_rs.png" /></a> <a href="http://www.facebook.com/pages/Asturiescom/44655588450"><img alt="Facebook" src="http://asturies.com/sites/default/files/iconos/ico_fb.png" /></a> <a href="http://twitter.com/asturies"><img alt="Twitter" src="http://asturies.com/sites/default/files/iconos/ico_tw.png" /></a> <a href="http://www.youtube.com/user/asturiescom?feature=mhum"><img alt="YouTube" src="http://asturies.com/sites/default/files/iconos/ico_yt.png" /></a> <a href="https://www.instagram.com/asturiescom/"><img alt="Instagram" src="http://asturies.com/sites/default/files/iconos/ico_instagram.png" /></a></div>
+
+  </div>
+
+</div></div> <!-- /block-inner, /block -->  </div>
+ 
+          </div>       
+            
+        
+		        
+      </div></div>
+    
+<!-- Navigation -->
+        
+<!-- Navigation -->
+        
+
+<!-- Header --> 
+    <div id="header-wrapper"><div class="header-wrapper-inner clearfix">
+    
+              <div id="site-logo">
+          <a href="/"><img src="http://asturies.com/sites/default/files/logo_acom_5.png" alt="Asturies.com" title="Asturies.com" /></a>
+        </div>
+            
+            
+         
+      
+<!-- Main Menu -->	    
+       
+        <div id="main-menu">
+           <div class="region region-main-menu">
+    <div id="block-menu-menu-menuprincipal" class="block block-menu"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">menu</h3>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf active"><a href="/" title="" class="active">Entamu</a></li>
+<li class="expanded active"><a href="/" title="Noticies" class="active">Noticies »</a><ul class="menu"><li class="first leaf"><a href="/seccion/asturies" title="">Asturies</a></li>
+<li class="leaf"><a href="/seccion/cultura" title="">Cultura</a></li>
+<li class="leaf"><a href="/seccion/economia" title="">Economía</a></li>
+<li class="leaf"><a href="/seccion/llingua" title="">Llingua Asturiana</a></li>
+<li class="leaf"><a href="/seccion/musica" title="">Música</a></li>
+<li class="leaf"><a href="/seccion/deportes" title="">Deportes</a></li>
+<li class="leaf"><a href="/seccion/tecnoloxies" title="">Ciencia y Tecnoloxía</a></li>
+<li class="leaf"><a href="/seccion/espana" title="">España</a></li>
+<li class="leaf"><a href="/seccion/mundu" title="">Mundu</a></li>
+<li class="last leaf"><a href="/seccion/ecoloxia" title="">Ecoloxía</a></li>
+</ul></li>
+<li class="leaf"><a href="/entrevistes" title="">Entrevistes</a></li>
+<li class="leaf"><a href="/galleries" title="">Galeríes</a></li>
+<li class="leaf"><a href="/vi%C3%B1etes/efren" title="">Humor</a></li>
+<li class="leaf"><a href="/poll" title="">Encuestes</a></li>
+<li class="leaf"><a href="/alagueta" title="">Infantil</a></li>
+<li class="expanded"><a href="http://www.asturies.com/espaciuytiempu" title="">Asturianu »</a><ul class="menu"><li class="first leaf"><a href="http://www.asturies.com/espaciuytiempu" title="">Espaciu y Tiempu</a></li>
+<li class="last leaf"><a href="http://asturies.com/espaciuytiempu/escritores/" title="">Caveda y Nava</a></li>
+</ul></li>
+<li class="last leaf"><a href="/eventos" title="">Ociu</a></li>
+</ul>  </div>
+
+</div></div> <!-- /block-inner, /block -->  </div>
+        </div>
+            
+    
+    </div></div><!-- /header-wrapper -->
+    
+       
+<!-- Middle Wrapper -->  
+    <div id="middle-wrapper"><div class="middle-wrapper-inner clearfix">
+    
+      <div id="contenedor_noticies">
+      
+          
+      	    <div class="sidebar-first clearfix main-equal"><div class="sidebar-second-inner">
+            <div class="region region-sidebar-first">
+    <div id="block-views-noticies_curties-block_1" class="block block-views"><div class="block-inner">
+  
+   
+    
+  <div class="content">
+    <div class="view view-noticies-curties view-id-noticies_curties view-display-id-block_1 view-dom-id-8a79bd6ce7d4e03231cb32495f00565b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+
+    <div class="teaser clearfix">  
+      
+                              <h2 class="title">
+            <a href="/noticies/danone-incorpora-lasturianu-na-promocion-de-los-sos-productos">Danone incorpora l&#039;asturianu na promoción de los sos productos</a>
+          </h2>
+              <span property="dc:title" content="Danone incorpora l&#039;asturianu na promoción de los sos productos" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+         
+    
+      
+      <div class="teaser-content clearfix">
+         <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/1" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Llingua asturiana</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Iniciativa pol Asturianu felicita a la firma francesa por ello y valora que cada vez más empreses usen l'idioma pa "coneutar d’una manera más direuta colos veceros".</p></div></div></div>      </div>
+    
+              <div class="taxonomy">
+	              </div>
+	  
+              <div class="links clearfix">
+                  </div>
+            
+    </div>
+
+
+  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+    
+
+    <div class="teaser clearfix">  
+      
+      <div class="field field-name-field-semeya2 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticies/sofia-castanon-va-ser-vocera-axunta-de-xunies-podemos-nel-congresu"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/columna_derecha_300xn/public/sofia_fernandez_castanon_0.jpg?itok=hOovPBUd" width="300" height="200" alt="Sofía Fernández Castañón" title="Sofía Fernández Castañón" /></a></div></div></div>                        <h2 class="title">
+            <a href="/noticies/sofia-castanon-va-ser-vocera-axunta-de-xunies-podemos-nel-congresu">Sofía Castañón va ser vocera axunta de Xuníes Podemos nel Congresu</a>
+          </h2>
+              <span property="dc:title" content="Sofía Castañón va ser vocera axunta de Xuníes Podemos nel Congresu" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+         
+    
+      
+      <div class="teaser-content clearfix">
+         <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/28" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">España</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Sustitúi a Ione Belarrra, que pasa a ocupar el cargu de secretaria d'Estáu d'Axenda 2030.</p></div></div></div>      </div>
+    
+              <div class="taxonomy">
+	              </div>
+	  
+              <div class="links clearfix">
+                  </div>
+            
+    </div>
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-views-noticies_curties-block_2" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title"> </h3>
+    
+  <div class="content">
+    <div class="view view-noticies-curties view-id-noticies_curties view-display-id-block_2 view-dom-id-357cf07e4d11a5afc74f259a59218861">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+
+    <div class="teaser clearfix">  
+      
+                              <h2 class="title">
+            <a href="/noticies/lusu-del-idioma-pol-presidente-del-pais-meyor-noticia-pal-asturianu-en-2019">L&#039;usu del idioma pol presidente del país, &#039;Meyor noticia pal asturianu en 2019&#039;</a>
+          </h2>
+              <span property="dc:title" content="L&#039;usu del idioma pol presidente del país, &#039;Meyor noticia pal asturianu en 2019&#039;" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+         
+    
+      
+      <div class="teaser-content clearfix">
+         <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/1" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Llingua asturiana</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Los participantes na encuesta valoraron la importancia del emplegu de la llingua asturiana por parte d'Adrián Barbón na toma de posesión y n'otros discursos oficiales.</p></div></div></div>      </div>
+    
+              <div class="taxonomy">
+	              </div>
+	  
+              <div class="links clearfix">
+                  </div>
+            
+    </div>
+
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    
+
+    <div class="teaser clearfix">  
+      
+                              <h2 class="title">
+            <a href="/noticies/abierta-la-matricula-pa-la-prueba-de-conocencia-de-lalla-de-xineru">Abierta la matrícula pa la prueba de conocencia de l&#039;ALLA de xineru</a>
+          </h2>
+              <span property="dc:title" content="Abierta la matrícula pa la prueba de conocencia de l&#039;ALLA de xineru" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+         
+    
+      
+      <div class="teaser-content clearfix">
+         <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/1" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Llingua asturiana</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>L'esame va celebrase'l sábadu 25 y, como novedá, la inscripción pue tramitase al traviés de la web de la institución académica.</p></div></div></div>      </div>
+    
+              <div class="taxonomy">
+	              </div>
+	  
+              <div class="links clearfix">
+                  </div>
+            
+    </div>
+
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    
+
+    <div class="teaser clearfix">  
+      
+      <div class="field field-name-field-semeya2 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticies/barbon-afirma-en-valdesoto-que-hai-que-reivindicar-les-nueses-tradiciones-culturales"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/columna_derecha_300xn/public/barbon_colos_sidros_en_valdesoto.jpg?itok=kExYONr9" width="300" height="200" alt="Barbón colos Sidros en Valdesoto" title="Barbón colos Sidros en Valdesoto" /></a></div></div></div>                        <h2 class="title">
+            <a href="/noticies/barbon-afirma-en-valdesoto-que-hai-que-reivindicar-les-nueses-tradiciones-culturales">Barbón afirma en Valdesoto que &quot;hai que reivindicar les nueses tradiciones culturales&quot;</a>
+          </h2>
+              <span property="dc:title" content="Barbón afirma en Valdesoto que &quot;hai que reivindicar les nueses tradiciones culturales&quot;" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+         
+    
+      
+      <div class="teaser-content clearfix">
+         <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/3" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Cultura</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>El presidente acudió al Domingu de Sidros y Comedies, que foron un ésitu de públicu.</p></div></div></div>      </div>
+    
+              <div class="taxonomy">
+	              </div>
+	  
+              <div class="links clearfix">
+                  </div>
+            
+    </div>
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-views-entrevistes-block_1" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">LES ENTREVISTES</h3>
+    
+  <div class="content">
+    <div class="view view-entrevistes view-id-entrevistes view-display-id-block_1 view-dom-id-587ffd1fb95df8396c673c0f3f5e03c1">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-semeya4">        <div class="field-content"><a href="/entrevistes/garcia-gil-llueu-de-10-anos-de-llabor-y-17-propuestes-asoleyaes-termast-ye-una-realida"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/columna_derecha_300xn/public/hector_garcia_gil_reducida.jpg?itok=BYjjtuZT" width="300" height="400" alt="Héctor García Gil " title="Héctor García Gil " /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/entrevistes/garcia-gil-llueu-de-10-anos-de-llabor-y-17-propuestes-asoleyaes-termast-ye-una-realida">García Gil: “Llueu de 10 años de llabor y 17 propuestes asoleyaes, TermAst ye una realidá afitada”</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/entrevistes">
+    Ver más  </a>
+</div>
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-views-alagueta_noticies-block_1" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">A LA GUETA</h3>
+    
+  <div class="content">
+    <div class="view view-alagueta-noticies view-id-alagueta_noticies view-display-id-block_1 view-dom-id-95e200f6eb5ae80c49eb289a8fb1b6f3">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-semeya3">        <div class="field-content"><a href="/alagueta/el-snl-de-llena-va-repartir-5000-pegatines-nel-area-de-pediatria-del-centru-de-salu-de-la"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/columna_derecha_300xn/public/campana_llena_pediatria.png?itok=mmorv0I9" width="300" height="271" alt="Campaña Ḷḷena pediatría" title="Campaña Ḷḷena pediatría" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/alagueta/el-snl-de-llena-va-repartir-5000-pegatines-nel-area-de-pediatria-del-centru-de-salu-de-la">El SNL de Ḷḷena va repartir 5.000 pegatines nel área de Pediatría del Centru de Salú de La Pola</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/alagueta">
+    Ver más  </a>
+</div>
+  
+      <div class="view-footer">
+      <p> </p>
+    </div>
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block -->  </div>
+	    </div></div>
+      	
+    
+      <div id="main-content" class="clearfix"><div id="main-content-inner" class="main-equal">
+      
+           
+      
+                        <div class="tabs"></div>                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system"><div class="block-inner">
+  
+   
+    
+  <div class="content">
+    <div class="view view-noticies view-id-noticies view-display-id-page_1 view-dom-id-8987709a474919884650f3992e14c8ec">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div id="node-48990" class="node node-noticies node-promoted node-teaser clearfix" about="/noticies/carreno-va-contar-con-un-festival-del-llibru-y-de-la-cultura-asturiana-con-vocacion-anal" typeof="sioc:Item foaf:Document"><div class="node-inner">
+
+      
+    <div class="teaser clearfix">  
+      
+      <div class="field field-name-field-semeya2 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticies/carreno-va-contar-con-un-festival-del-llibru-y-de-la-cultura-asturiana-con-vocacion-anal"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/teaser_voh/public/conceyu_de_trabayu_regueriada_fest_anton_garcia_y_amelia_fernadez.jpg?itok=q9sY33wt" width="458" height="265" alt="Conceyu de trabayu Regueriada Fest " title="Conceyu de trabayu Regueriada Fest " /></a></div></div></div>                        <h2 class="title">
+            <a href="/noticies/carreno-va-contar-con-un-festival-del-llibru-y-de-la-cultura-asturiana-con-vocacion-anal">Carreño va contar con un festival del llibru y de la cultura asturiana con vocación añal</a>
+          </h2>
+              <span property="dc:title" content="Carreño va contar con un festival del llibru y de la cultura asturiana con vocación añal" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+        
+    
+      
+      <div class="teaser-content clearfix">
+         <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/1" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Llingua asturiana</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Candás va acoyer del 22 al 25 d’ochobre’l Regueriada Fest, un festival del llibru y la cultura asturiana con actividaes llúdiques, artes escéniques, música y gastronomía. La Durangoko Euskal Liburu eta Disko Azoka ye una de les referencies pa esti proyeutu conxuntu del Conceyu de Carreño y Política Llingüística.</p></div></div></div><div class="field field-name-field-noticies-rellacionaes field-type-node-reference field-label-hidden">
+<ul>
+    <li><a href="/noticies/carreno-entama-un-programa-dedicau-a-anton-de-marirreguera-cola-intencion-de-crear-un-polu">Carreño entama un programa dedicáu a Antón de Marirreguera cola intención de “crear un polu de creatividá cultural”</a></li>
+    <li><a href="/noticies/lalba-de-les-lletres-y-la-feria-del-llibru-nasturianu-de-carreno-marquen-laniciu-de-la">L’Alba de les Lletres y la Feria del Llibru n&#039;Asturianu de Carreño marquen l’aniciu de la selmana dedicada a la nuesa lliteratura</a></li>
+</ul>
+</div>      </div>
+    
+              <div class="taxonomy">
+	              </div>
+	  
+              <div class="links clearfix">
+                  </div>
+            
+    </div>
+    
+    
+    
+</div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div id="node-48988" class="node node-noticies node-promoted node-teaser clearfix" about="/noticies/en-prefiero-ver-llover-hai-un-cambiu-estilisticu-bastante-importante-asegura-silvia-quesada" typeof="sioc:Item foaf:Document"><div class="node-inner">
+
+      
+    <div class="teaser clearfix">  
+      
+      <div class="field field-name-field-semeya2 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticies/en-prefiero-ver-llover-hai-un-cambiu-estilisticu-bastante-importante-asegura-silvia-quesada"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/teaser_voh/public/silvia_quesada_prefiero_ver_llover_por_glendor_diaz_reducida.jpg?itok=da4q39_j" width="458" height="329" alt="Silvia Quesada &#039;Prefiero ver llover&#039; " title="Silvia Quesada &#039;Prefiero ver llover&#039; " /></a></div></div></div>                        <h2 class="title">
+            <a href="/noticies/en-prefiero-ver-llover-hai-un-cambiu-estilisticu-bastante-importante-asegura-silvia-quesada">“En ‘Prefiero ver llover’ hai un cambiu estilísticu bastante importante”, asegura Silvia Quesada</a>
+          </h2>
+              <span property="dc:title" content="“En ‘Prefiero ver llover’ hai un cambiu estilísticu bastante importante”, asegura Silvia Quesada" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+        
+    
+      
+      <div class="teaser-content clearfix">
+         <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/5" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Música</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>El segundu trabayu de Silvia Quesada yá ye una realidá. Llámase ‘Prefiero ver llover’ y nél la cantante de Brañameana, que va presentalu’l vienres en direuto en La Felguera, exhibe “un cambiu estilísticu bastante importante” con respeuto a ‘La pena abierta’.</p></div></div></div><div class="field field-name-field-noticies-rellacionaes field-type-node-reference field-label-hidden">
+<ul>
+    <li><a href="/entrevistes/silvia-quesada-la-pena-abierta-yera-un-discu-necesariu-na-escena-asturiana">Silvia Quesada: &quot;&#039;La pena abierta&#039; yera un discu necesariu na escena asturiana&quot;</a></li>
+</ul>
+</div>      </div>
+    
+              <div class="taxonomy">
+	              </div>
+	  
+              <div class="links clearfix">
+                  </div>
+            
+    </div>
+    
+    
+    
+</div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div id="node-48989" class="node node-noticies node-promoted node-teaser clearfix" about="/noticies/timmermans-dirixese-a-los-mineros-dasturies-na-presentacion-del-plan-pafrontar-la" typeof="sioc:Item foaf:Document"><div class="node-inner">
+
+      
+    <div class="teaser clearfix">  
+      
+      <div class="field field-name-field-semeya2 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticies/timmermans-dirixese-a-los-mineros-dasturies-na-presentacion-del-plan-pafrontar-la"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/teaser_voh/public/frans_timmermans_nel_parllamentu_europeu_mineros_asturianos.png?itok=p988qLJ_" width="458" height="281" alt="Frans Timmermans nel Parllamentu Européu mineros asturianos" title="Frans Timmermans nel Parllamentu Européu mineros asturianos" /></a></div></div></div>                        <h2 class="title">
+            <a href="/noticies/timmermans-dirixese-a-los-mineros-dasturies-na-presentacion-del-plan-pafrontar-la">Timmermans diríxese “a los mineros d’Asturies” na presentación del plan p’afrontar la descarbonización</a>
+          </h2>
+              <span property="dc:title" content="Timmermans diríxese “a los mineros d’Asturies” na presentación del plan p’afrontar la descarbonización" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+        
+    
+      
+      <div class="teaser-content clearfix">
+         <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/4" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Economía</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>“Lo que facemos equí ye un mensaxe pa los mineros de carbón d’Asturies, Macedonia Oeste o Silesia” apuntó’l vicepresidente de la Comisión Europea, Frans Timmermans, esti martes na sesión del Parllamentu Européu. Acudió a Strossburi pa presentar’l plan p’afrontar la descarbonización con un fondu esperáu de 100.000 millones pa los territorios mineros nos años próximos.</p></div></div></div>      </div>
+    
+              <div class="taxonomy">
+	              </div>
+	  
+              <div class="links clearfix">
+                  </div>
+            
+    </div>
+    
+    
+    
+</div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <div id="node-48984" class="node node-noticies node-promoted node-teaser clearfix" about="/noticies/esti-trabayu-lliterariu-nuevu-ye-un-diariu-de-suanos-describe-maxi-arenes" typeof="sioc:Item foaf:Document"><div class="node-inner">
+
+      
+    <div class="teaser clearfix">  
+      
+      <div class="field field-name-field-semeya2 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticies/esti-trabayu-lliterariu-nuevu-ye-un-diariu-de-suanos-describe-maxi-arenes"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/teaser_voh/public/maxi_arenes_con_suanando_dende_arenes.jpg?itok=FZTDgMqR" width="200" height="267" alt="Maxi Areñes con &#039;Suañando dende Areñes&#039;" title="Maxi Areñes con &#039;Suañando dende Areñes&#039;" /></a></div></div></div>                        <h2 class="title">
+            <a href="/noticies/esti-trabayu-lliterariu-nuevu-ye-un-diariu-de-suanos-describe-maxi-arenes">“Esti trabayu lliterariu nuevu ye un diariu de suaños”, describe Maxi Areñes</a>
+          </h2>
+              <span property="dc:title" content="“Esti trabayu lliterariu nuevu ye un diariu de suaños”, describe Maxi Areñes" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+        
+    
+      
+      <div class="teaser-content clearfix">
+         <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/3" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Cultura</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>‘Suañando dende Areñes’ ye la obra nueva de Maxi Areñes, una colleición de rellatos y poemes que sigue la llinia de ‘Cuentinos dende Areñes’ y que’l músicu y escritor va presentar el vienres en L’Infiestu. Maitetxu Isla encárgase de les ilustraciones d’un trabayu lliterariu que'l xixonés define como “un diariu de suaños”.</p>
+</div></div></div>      </div>
+    
+              <div class="taxonomy">
+	              </div>
+	  
+              <div class="links clearfix">
+                  </div>
+            
+    </div>
+    
+    
+    
+</div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    <div id="node-48985" class="node node-noticies node-promoted node-teaser clearfix" about="/noticies/el-snl-de-llena-va-repartir-5000-pegatines-nel-area-de-pediatria-del-centru-de-salu-de-la" typeof="sioc:Item foaf:Document"><div class="node-inner">
+
+      
+    <div class="teaser clearfix">  
+      
+      <div class="field field-name-field-semeya2 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticies/el-snl-de-llena-va-repartir-5000-pegatines-nel-area-de-pediatria-del-centru-de-salu-de-la"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/teaser_voh/public/campana_llena_pediatria.png?itok=JIb7Ne78" width="458" height="414" alt="Campaña Ḷḷena pediatría" title="Campaña Ḷḷena pediatría" /></a></div></div></div>                        <h2 class="title">
+            <a href="/noticies/el-snl-de-llena-va-repartir-5000-pegatines-nel-area-de-pediatria-del-centru-de-salu-de-la">El SNL de Ḷḷena va repartir 5.000 pegatines nel área de Pediatría del Centru de Salú de La Pola</a>
+          </h2>
+              <span property="dc:title" content="El SNL de Ḷḷena va repartir 5.000 pegatines nel área de Pediatría del Centru de Salú de La Pola" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+        
+    
+      
+      <div class="teaser-content clearfix">
+         <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/1" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Llingua asturiana</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>‘Toi alicando’, ‘Soi mui grande’, ‘Pórtome de mieu’ y ‘Nun ḷḷoré’ son los cuatro modelos editaos pol Serviciu de Normalización Llingüística de Ḷḷena colos que se va ‘premiar’ a les neñes y neños que tengan qu’acudir al área de Pediatría del Centru de Salú de La Pola. Van repartise, nuna primer tirada, un total de 5.000 pegatines.</p></div></div></div>      </div>
+    
+              <div class="taxonomy">
+	              </div>
+	  
+              <div class="links clearfix">
+                  </div>
+            
+    </div>
+    
+    
+    
+</div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+    <div id="node-48982" class="node node-noticies node-promoted node-teaser clearfix" about="/noticies/con-astor-pretendemos-avera-y-a-la-xente-la-realida-de-la-cultura-asturiana-y-amosala-al" typeof="sioc:Item foaf:Document"><div class="node-inner">
+
+      
+    <div class="teaser clearfix">  
+      
+      <div class="field field-name-field-semeya2 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticies/con-astor-pretendemos-avera-y-a-la-xente-la-realida-de-la-cultura-asturiana-y-amosala-al"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/teaser_voh/public/angel_villa_xose_ramon_iglesias_cueva_y_fernan_moran_numberu_18_astor.jpg?itok=_AK7uZ3j" width="458" height="258" alt="Ángel Villa, Xosé Ramón Iglesias Cueva y Fernán Morán númberu 18 &#039;Ástor&#039;" title="Ángel Villa, Xosé Ramón Iglesias Cueva y Fernán Morán númberu 18 &#039;Ástor&#039;" /></a></div></div></div>                        <h2 class="title">
+            <a href="/noticies/con-astor-pretendemos-avera-y-a-la-xente-la-realida-de-la-cultura-asturiana-y-amosala-al">“Con ‘Ástor’ pretendemos avera-y a la xente la realidá de la cultura asturiana y amosala al mundu”, asegura Morán</a>
+          </h2>
+              <span property="dc:title" content="“Con ‘Ástor’ pretendemos avera-y a la xente la realidá de la cultura asturiana y amosala al mundu”, asegura Morán" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+        
+    
+      
+      <div class="teaser-content clearfix">
+         <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/3" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Cultura</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Yá ta disponible’l númberu 18 de ‘Ástor’, el cartafueyu de la <a href="https://lligaceltadasturies.wordpress.com/">Lliga Celta d’Asturies</a>, que s’edita 30 años depués del 17 en formatu dixital con apéndices en castellanu y inglés. “Pretendemos avera-y a la xente la realidá de la cultura asturiana y amosala al mundu”, apunta’l so direutor Fernán Morán sobre esti proyeutu que se presentó na sede de l’<a href="http://www.academiadelallingua.com/">Academia de la Llingua Asturiana (ALLA)</a>.</p></div></div></div><div class="field field-name-field-noticies-rellacionaes field-type-node-reference field-label-hidden">
+<ul>
+    <li><a href="/noticies/la-lliga-celta-dasturies-presental-so-cartafueyu">La Lliga Celta d&#039;Asturies presenta&#039;l so cartafueyu</a></li>
+</ul>
+</div>      </div>
+    
+              <div class="taxonomy">
+	              </div>
+	  
+              <div class="links clearfix">
+                  </div>
+            
+    </div>
+    
+    
+    
+</div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+    <div id="node-48951" class="node node-noticies node-promoted node-teaser clearfix" about="/noticies/el-csic-edita-un-calendariu-escolar-cientificu-en-cinco-llingues-ente-elles-lasturianu" typeof="sioc:Item foaf:Document"><div class="node-inner">
+
+      
+    <div class="teaser clearfix">  
+      
+      <div class="field field-name-field-semeya2 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/noticies/el-csic-edita-un-calendariu-escolar-cientificu-en-cinco-llingues-ente-elles-lasturianu"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/teaser_voh/public/primeros_dies_xineru_calendariu_cientificu_escolar_2020.png?itok=A53R3glY" width="458" height="321" alt="Primeros díes xineru Calendariu Científicu Escolar 2020" title="Primeros díes xineru Calendariu Científicu Escolar 2020" /></a></div></div></div>                        <h2 class="title">
+            <a href="/noticies/el-csic-edita-un-calendariu-escolar-cientificu-en-cinco-llingues-ente-elles-lasturianu">El CSIC edita un calendariu escolar científicu en cinco llingües, ente elles l&#039;asturianu</a>
+          </h2>
+              <span property="dc:title" content="El CSIC edita un calendariu escolar científicu en cinco llingües, ente elles l&#039;asturianu" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+        
+    
+      
+      <div class="teaser-content clearfix">
+         <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/25" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ciencia y tecnoloxía</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Siguiendo exemplos esistentes n’Alba o Rumanía, y a propuesta d’<a href="https://laicismo.org/">Europa Laica</a>, el <a href="https://www.csic.es/es">Conseyu Superior d’Investigaciones Científiques (CSIC)</a> ta acabante d’asoleyar un calendariu escolar científicu correspondiente al 2020 en toles llingües cooficiales y n’asturianu. L’<a href="http://www.academiadelallingua.com/">Academia de la Llingua Asturiana (ALLA)</a> participó como entidá financiadora de la iniciativa del <a href="http://www.igm.ule-csic.es/">Institutu de Ganadería de Monte</a>.</p></div></div></div>      </div>
+    
+              <div class="taxonomy">
+	              </div>
+	  
+              <div class="links clearfix">
+                  </div>
+            
+    </div>
+    
+    
+    
+</div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+    <div id="node-48948" class="node node-noticies node-promoted node-teaser clearfix" about="/noticies/asturies-galicia-castilla-y-lleon-y-estremadura-uniques-autonomies-que-pierden-poblacion" typeof="sioc:Item foaf:Document"><div class="node-inner">
+
+      
+    <div class="teaser clearfix">  
+      
+                              <h2 class="title">
+            <a href="/noticies/asturies-galicia-castilla-y-lleon-y-estremadura-uniques-autonomies-que-pierden-poblacion">Asturies, Galicia, Castilla y Lleón, y Estremadura, úniques autonomíes que pierden población</a>
+          </h2>
+              <span property="dc:title" content="Asturies, Galicia, Castilla y Lleón, y Estremadura, úniques autonomíes que pierden población" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+        
+    
+      
+      <div class="teaser-content clearfix">
+         <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/2" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Asturies</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>El noroeste peninsular y Estremadura, amás de les ciudaes autónomes, son les úniques zones del Estáu que pierden población. L’<a href="https://www.ine.es/welcome.shtml">Instituto Nacional de Estadística (INE)</a> espublizó’l miércoles los datos correspondientes al primer semestre del 2019, periodo nel qu’Asturies rexistró 2.212 habitantes menos.</p></div></div></div>      </div>
+    
+              <div class="taxonomy">
+	              </div>
+	  
+              <div class="links clearfix">
+                  </div>
+            
+    </div>
+    
+    
+    
+</div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-9 views-row-odd views-row-last">
+    <div id="node-48950" class="node node-noticies node-promoted node-teaser clearfix" about="/noticies/xixon-tapia-el-franco-cuana-y-muros-van-poder-plantar-pataca" typeof="sioc:Item foaf:Document"><div class="node-inner">
+
+      
+    <div class="teaser clearfix">  
+      
+                              <h2 class="title">
+            <a href="/noticies/xixon-tapia-el-franco-cuana-y-muros-van-poder-plantar-pataca">Xixón, Tapia, El Franco, Cuaña y Muros van poder plantar pataca</a>
+          </h2>
+              <span property="dc:title" content="Xixón, Tapia, El Franco, Cuaña y Muros van poder plantar pataca" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+        
+    
+      
+      <div class="teaser-content clearfix">
+         <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/26" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ecoloxía</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>El Gobiernu va llevantar a últimos d’esti mes la prohibición de plantar pataca en cinco conceyos por mor de la presencia de la poliya guatemaliana. Xixón, Tapia, El Franco, Cuaña y Muros son los beneficiaos, pasando a ser ‘conceyos tampón’ de la plaga, mentes qu’otros ocho, toos del occidente, siguen con restricciones.</p></div></div></div>      </div>
+    
+              <div class="taxonomy">
+	              </div>
+	  
+              <div class="links clearfix">
+                  </div>
+            
+    </div>
+    
+    
+    
+</div></div> <!-- /node-inner, /node -->
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block -->  </div>
+ 
+                  
+              </div></div>
+      
+      </div>
+      
+      	    <div class="sidebar-second clearfix main-equal"><div class="sidebar-first-inner">
+            <div class="region region-sidebar-second">
+    <div id="block-block-50" class="block block-block"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">Vídeos</h3>
+    
+  <div class="content">
+    <div class="iframecont">
+<iframe src="https://www.youtube.com/embed/cgan9hmw56M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p>'En Llaviana quiero tar' ye'l villancicu fechu a comu&ntilde;a polos vecinos de Llaviana xunto col m&uacute;sicu Alfredo Gonz&aacute;lez dientro'l proyeutu 'El mio villancicu' entam&aacute;u pola Conceyal&iacute;a de Cultura del Conceyu de Llaviana dende'l Serviciu de Normalizaci&oacute;n Lling&uuml;&iacute;stica a propuesta de l&rsquo;Asociaci&oacute;n de Aut&oacute;nomos de Laviana (AULAV) y desendolc&aacute;u pol Grupo A Mansalva.</p>
+<p class="rteright"><em><strong><em><a href="https://www.youtube.com/user/asturiescom" target="_blank">Ver m&aacute;s videos</a></em></strong></em></p>
+  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-views-opinion-block_1" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">Opinión</h3>
+    
+  <div class="content">
+    <div class="view view-opinion view-id-opinion view-display-id-block_1 view-dom-id-7192c361aab17a961340ffd1a2276769">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <span class="views-field views-field-picture">        <span class="field-content">  <div class="user-picture">
+    <img typeof="foaf:Image" src="http://asturies.com/sites/default/files/pictures/picture-10000927-1557504680.png" alt="XuanSantori&#039;s picture" title="XuanSantori&#039;s picture" />  </div>
+</span>  </span>  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/opinion/jedem-das-seine-na-muerte-de-vincent-garcia-deportau-nu-42553-buchenwald">Jedem das Seine. (Na muerte de Vincent Garcia, deportáu nu 42.553, Buchenwald)</a></span>  </span>  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/user/10000927" title="Ver perfil de usuario." class="username" xml:lang="" about="/user/10000927" typeof="sioc:UserAccount" property="foaf:name" datatype="">Xuan Santori</a></span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="clearfloat"></div><br/></span>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/opinion">
+    Ver más  </a>
+</div>
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-views-7b9ea008c44c0f15794f3048daa41b3c" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title"><a href="http://asturies.com/galleries">Galeríes</a></h3>
+    
+  <div class="content">
+    <div class="view view-node-gallery-gallery-summaries view-id-node_gallery_gallery_summaries view-display-id-block_1 view-dom-id-42dbb4427dbcbe48d6d2dbf48439f33b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <span class="views-field views-field-field-node-gallery-image">        <span class="field-content"><a href="http://asturies.com/galeries/dia-de-la-reciella-2019"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/140xh/public/Dia_de_la_Reciella_2019_P1100271.jpg?itok=lolnHrKK" width="140" height="105" alt="Dia_de_la_Reciella_2019_P1100271.jpg" title="Dia_de_la_Reciella_2019_P1100271.jpg" /></a></span>  </span>  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/galeries/dia-de-la-reciella-2019">Día de la Reciella 2019</a></span>  </span>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="clearfloat"></div></span>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/galleries">
+    Ver más  </a>
+</div>
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-views-vinietes_efren-block_1" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">Efrén d&#039;Andrés</h3>
+    
+  <div class="content">
+    <div class="view view-vinietes-efren view-id-vinietes_efren view-display-id-block_1 view-dom-id-1c94dbb4e32dabd147606562b9c745ac">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-semeya3">        <div class="field-content"><a href="/vi%C3%B1etes/efren"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/columna_derecha_300xn/public/nueche_abegosa_12.jpg?itok=TBok80mX" width="300" height="205" alt="&#039;Nueche abegosa&#039; 12" title="&#039;Nueche abegosa&#039; 12" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-views-d73b62bf581fe20af416e250d0698739" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">Cróniques ultramarines</h3>
+    
+  <div class="content">
+    <div class="view view-croniques-ultramarines-bloque-portada view-id-croniques_ultramarines_bloque_portada view-display-id-block view-dom-id-8090a0d2246351c8ef6c933396a48494">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-semeya2">        <div class="field-content"><a href="/nos-los-ultramarinos"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/columna_derecha_300xn/public/eventos/sol_nos_pomares_38948.jpg?itok=HSyoBmgU" width="300" height="170" alt="¡Nós, los ultramarinos!" title="¡Nós, los ultramarinos!" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/nos-los-ultramarinos">¡Nós, los ultramarinos!</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-views-lo_mas_visto-block" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">Lo + visto de la selmana</h3>
+    
+  <div class="content">
+    <div class="view view-lo-mas-visto view-id-lo_mas_visto view-display-id-block view-dom-id-4c2308e3efac29cc9b92628f102b1d71">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/noticies/con-astor-pretendemos-avera-y-a-la-xente-la-realida-de-la-cultura-asturiana-y-amosala-al">“Con ‘Ástor’ pretendemos avera-y a la xente la realidá de la cultura asturiana y amosala al mundu”, asegura Morán</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/noticies/lusu-del-idioma-pol-presidente-del-pais-meyor-noticia-pal-asturianu-en-2019">L&#039;usu del idioma pol presidente del país, &#039;Meyor noticia pal asturianu en 2019&#039;</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/noticies/en-prefiero-ver-llover-hai-un-cambiu-estilisticu-bastante-importante-asegura-silvia-quesada">“En ‘Prefiero ver llover’ hai un cambiu estilísticu bastante importante”, asegura Silvia Quesada</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/noticies/barbon-afirma-en-valdesoto-que-hai-que-reivindicar-les-nueses-tradiciones-culturales">Barbón afirma en Valdesoto que &quot;hai que reivindicar les nueses tradiciones culturales&quot;</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/noticies/esti-trabayu-lliterariu-nuevu-ye-un-diariu-de-suanos-describe-maxi-arenes">“Esti trabayu lliterariu nuevu ye un diariu de suaños”, describe Maxi Areñes</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-block-33" class="block block-block"><div class="block-inner">
+  
+   
+    
+  <div class="content">
+    <p><a href="/espaciuytiempu"><img border="0" src="/sites/default/files/logo_eyt.jpg" alt="Espaciu y Tiempu" /></a></p>
+  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-block-7" class="block block-block"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">Xuegos</h3>
+    
+  <div class="content">
+    <div class="floatleft">
+<a href="http://www.araz.net/enigma_xovellanos"><img border="0" alt="Enigma Xovellanos" title="Enigma Xovellanos" src="/sites/default/files/boton_enigma_xovellanos.jpg" /></a>
+</div>
+<div class="floatleft">
+<a href="/conocesasturies"><img border="0" alt="Conoces Asturies" title="Conoces Asturies" src="/sites/default/files/conoces_asturies.jpg" /></a>
+</div>
+<div class="clearfloat">&nbsp;</div>
+<div class="floatleft">
+<a href="/sopadelletres"><img border="0" src="/sites/default/files/logu_sopalletres.jpg" alt="Sopa de lletres" title="Sopa de lletres" /><br/>
+Sopa de lletres</a>
+</div>
+<div class="floatleft">
+<a href="http://www.asturies.com/xuegumapa/index.html" target="_blank"><img border="0" src="/sites/default/files/mapa_xuegu2.gif" alt="Conceyos d'Asturies" title="Conceyos d'Asturies" /><br />
+Conceyos d'Asturies</a>
+</div>
+<div class="clearfloat">&nbsp;</div>
+
+  </div>
+
+</div></div> <!-- /block-inner, /block -->  </div>
+	    </div></div>
+        
+    </div></div><!-- /middle-wrapper --> 
+
+<div class="content-bottom">  <div class="region region-content-bottom">
+    <div id="block-views-eventos-block" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">Guia del ociu pa güei</h3>
+    
+  <div class="content">
+    <div class="view view-eventos view-id-eventos view-display-id-block view-dom-id-8fa78ed756ceb87f6b943a9e48dbe29f">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid cols-5">
+  
+  <tbody>
+          <tr  class="row-1 row-first row-last">
+                  <td  class="col-1 col-first">
+              
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/eventos/ospa-horizontes-ii">OSPA: &#039;Horizontes II&#039;</a></span>  </div>  
+  <div class="views-field views-field-field-semeya2">        <div class="field-content"><a href="/eventos/ospa-horizontes-ii"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/medium/public/eventos/ospa_41312_40.jpg?itok=4KoFEpJf" width="200" height="113" alt="OSPA: &#039;Horizontes II&#039;" title="OSPA: &#039;Horizontes II&#039;" /></a></div>  </div>  
+  <div class="views-field views-field-field-localida">    <strong class="views-label views-label-field-localida">Localidá: </strong>    Xixón  </div>  
+  <div class="views-field views-field-field-sitiu">    <strong class="views-label views-label-field-sitiu">Sitiu: </strong>    Teatru Xovellanos  </div>  
+  <div class="views-field views-field-field-tipu">    <strong class="views-label views-label-field-tipu">Tipu d&#039;eventu: </strong>    Música  </div>          </td>
+                  <td  class="col-2">
+              
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/eventos/maite-centol-nada-poco-bastante-mucho">Maite Centol, &#039;Nada, poco, bastante, mucho&#039;</a></span>  </div>  
+  <div class="views-field views-field-field-semeya2">        <div class="field-content"><a href="/eventos/maite-centol-nada-poco-bastante-mucho"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/medium/public/eventos/maite_centol_43897.jpg?itok=HPF7w5Pm" width="200" height="113" alt="Maite Centol, &#039;Nada, poco, bastante, mucho&#039;" title="Maite Centol, &#039;Nada, poco, bastante, mucho&#039;" /></a></div>  </div>  
+  <div class="views-field views-field-field-localida">    <strong class="views-label views-label-field-localida">Localidá: </strong>    Uviéu  </div>  
+  <div class="views-field views-field-field-sitiu">    <strong class="views-label views-label-field-sitiu">Sitiu: </strong>    Muséu de Belles Artes d&#039;Asturies  </div>  
+  <div class="views-field views-field-field-tipu">    <strong class="views-label views-label-field-tipu">Tipu d&#039;eventu: </strong>    Esposiciones  </div>          </td>
+                  <td  class="col-3">
+              
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/eventos/difusion-y-evocacion-la-coleccion-de-dibujos-del-instituto-de-jovellanos">&#039;Difusión y Evocación. La colección de dibujos del Instituto de Jovellanos&#039;</a></span>  </div>  
+  <div class="views-field views-field-field-semeya2">        <div class="field-content"><a href="/eventos/difusion-y-evocacion-la-coleccion-de-dibujos-del-instituto-de-jovellanos"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/medium/public/eventos/difusion_evocacion_43991_0.jpg?itok=4jHIiFh1" width="200" height="113" alt="&#039;Difusión y Evocación. La colección de dibujos del Instituto de Jovellanos&#039;" title="&#039;Difusión y Evocación. La colección de dibujos del Instituto de Jovellanos&#039;" /></a></div>  </div>  
+  <div class="views-field views-field-field-localida">    <strong class="views-label views-label-field-localida">Localidá: </strong>    Xixón  </div>  
+  <div class="views-field views-field-field-sitiu">    <strong class="views-label views-label-field-sitiu">Sitiu: </strong>    Muséu-Casa Natal Xovellanos  </div>  
+  <div class="views-field views-field-field-tipu">    <strong class="views-label views-label-field-tipu">Tipu d&#039;eventu: </strong>    Esposiciones  </div>          </td>
+                  <td  class="col-4">
+              
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/eventos/high-life">High life</a></span>  </div>  
+  <div class="views-field views-field-field-semeya2">        <div class="field-content"><a href="/eventos/high-life"><img typeof="foaf:Image" src="http://asturies.com/sites/default/files/styles/medium/public/eventos/high_life_44123.jpg?itok=ooTjS01t" width="200" height="112" alt="High life" title="High life" /></a></div>  </div>  
+  <div class="views-field views-field-field-localida">    <strong class="views-label views-label-field-localida">Localidá: </strong>    Avilés  </div>  
+  <div class="views-field views-field-field-sitiu">    <strong class="views-label views-label-field-sitiu">Sitiu: </strong>    Centru Cultural Internacional Oscar Niemeyer  </div>  
+  <div class="views-field views-field-field-tipu">    <strong class="views-label views-label-field-tipu">Tipu d&#039;eventu: </strong>    Proyecciones  </div>          </td>
+                  <td  class="col-5 col-last">
+                      </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block -->  </div>
+</div>
+<!-- Bottom User Regions -->
+          <div id="bottom-user-regions"><div class="bottom-user-regions-inner clearfix">
+	    		  <div class="user-region width25">
+		    <div class="user-region-inner">
+                <div class="region region-user1">
+    <div id="block-views-bloque_noticies_cultura-block_1" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">Cultura</h3>
+    
+  <div class="content">
+    <div class="view view-bloque-noticies-cultura view-id-bloque_noticies_cultura view-display-id-block_1 view-dom-id-ef842de40b8de611b8f67b74883a7d74">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+          <a href="/noticies/esti-trabayu-lliterariu-nuevu-ye-un-diariu-de-suanos-describe-maxi-arenes">“Esti trabayu lliterariu nuevu ye un diariu de suaños”, describe Maxi Areñes</a>  </li>
+          <li class="views-row views-row-2 views-row-even">  
+          <a href="/noticies/con-astor-pretendemos-avera-y-a-la-xente-la-realida-de-la-cultura-asturiana-y-amosala-al">“Con ‘Ástor’ pretendemos avera-y a la xente la realidá de la cultura asturiana y amosala al mundu”, asegura Morán</a>  </li>
+          <li class="views-row views-row-3 views-row-odd">  
+          <a href="/noticies/barbon-afirma-en-valdesoto-que-hai-que-reivindicar-les-nueses-tradiciones-culturales">Barbón afirma en Valdesoto que &quot;hai que reivindicar les nueses tradiciones culturales&quot;</a>  </li>
+          <li class="views-row views-row-4 views-row-even">  
+          <a href="/noticies/el-domingu-ye-de-sidros-y-comedies-en-valdesoto">El domingu ye de sidros y comedies en Valdesoto</a>  </li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+          <a href="/noticies/la-lliga-celta-dasturies-presental-so-cartafueyu">La Lliga Celta d&#039;Asturies presenta&#039;l so cartafueyu</a>  </li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-views-28b30c0c60714f556ec2ef31deed6e4e" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">Asturies</h3>
+    
+  <div class="content">
+    <div class="view view-bloque-noticies-asturies view-id-bloque_noticies_asturies view-display-id-block_1 view-dom-id-31fee9e469948e8b542b46e3691505db">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+          <a href="/noticies/asturies-galicia-castilla-y-lleon-y-estremadura-uniques-autonomies-que-pierden-poblacion">Asturies, Galicia, Castilla y Lleón, y Estremadura, úniques autonomíes que pierden población</a>  </li>
+          <li class="views-row views-row-2 views-row-even">  
+          <a href="/noticies/fanjul-va-sustituyir-a-ana-coto-na-xunta-xeneral">Fanjul va sustituyir a Ana Coto na Xunta Xeneral</a>  </li>
+          <li class="views-row views-row-3 views-row-odd">  
+          <a href="/noticies/barbon-desplazose-a-madrid-pa-presenciar-la-sesion-del-plenu-dinvestidura-de-sanchez">Barbón desplazóse a Madrid pa presenciar la sesión del Plenu d&#039;Investidura de Sánchez</a>  </li>
+          <li class="views-row views-row-4 views-row-even">  
+          <a href="/noticies/la-noticia-del-escaezu-del-asturianu-de-la-diputada-popular-maria-gloria-garcia-la-mas">La noticia del escaezu del asturianu de la diputada popular María Gloria García, la más vista del 2019 n’Asturies.com</a>  </li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+          <a href="/noticies/el-presupuestu-de-barbon-salva-les-enmiendes-a-la-totalida-nun-plenu-nel-que-foro-amuesa-la">El presupuestu de Barbón salva les enmiendes a la totalidá nun Plenu nel que Foro amuesa la so división</a>  </li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block -->  </div>
+		    </div>
+		  </div>
+                		  <div class="user-region width25">
+		    <div class="user-region-inner">
+                <div class="region region-user2">
+    <div id="block-views-0f29c20e68bfdbb3a05a13bd4a0d274e" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">Deportes</h3>
+    
+  <div class="content">
+    <div class="view view-bloque-noticies-deportes view-id-bloque_noticies_deportes view-display-id-block_1 view-dom-id-d5ef1388e6aec96f17cf8bb3228756c1">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+          <a href="/noticies/la-temporada-desqui-echo-a-andar-en-tiempu-en-fuentes-de-invierno-mentes-que-valgrande">La temporada d’esquí echó a andar en tiempu en Fuentes de Invierno, mentes que Valgrande-Payares nun pudo abrir</a>  </li>
+          <li class="views-row views-row-2 views-row-even">  
+          <a href="/noticies/carreno-primer-asturianu-en-ganar-la-davis-cup-como-tenista">Carreño, primer asturianu en ganar la Davis Cup como tenista</a>  </li>
+          <li class="views-row views-row-3 views-row-odd">  
+          <a href="/noticies/carreno-va-debutar-na-davis-contra-guido-pella">Carreño va debutar na Davis contra Guido Pella</a>  </li>
+          <li class="views-row views-row-4 views-row-even">  
+          <a href="/noticies/el-derbi-dexo-ver-poco-futbol-y-ocasiones">El derbi dexó ver poco fútbol y ocasiones </a>  </li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+          <a href="/noticies/zamora-badalona-ud-logrones-ebro-y-cadiz-rivales-en-copa">Zamora, Badalona, UD Logroñes, Ebro y Cádiz, rivales en Copa</a>  </li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-views-cbc02bd7b175c905d2526fdc80bb33ee" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">Ecoloxía</h3>
+    
+  <div class="content">
+    <div class="view view-bloque-noticies-ecoloxia view-id-bloque_noticies_ecoloxia view-display-id-block_1 view-dom-id-af8685348431966627c37a9e151733e8">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+          <a href="/noticies/xixon-tapia-el-franco-cuana-y-muros-van-poder-plantar-pataca">Xixón, Tapia, El Franco, Cuaña y Muros van poder plantar pataca</a>  </li>
+          <li class="views-row views-row-2 views-row-even">  
+          <a href="/noticies/el-parque-de-picos-va-tener-un-presupuestu-de-25-millones-nel-2020">El Parque de Picos va tener un presupuestu de 2,5 millones nel 2020</a>  </li>
+          <li class="views-row views-row-3 views-row-odd">  
+          <a href="/noticies/lesbardu-saba-recoyiu-en-mayu-en-proaza-va-tornar-a-la-lliberta-en-picos">L’esbardu Saba, recoyíu en mayu en Proaza, va tornar a la llibertá en Picos</a>  </li>
+          <li class="views-row views-row-4 views-row-even">  
+          <a href="/noticies/el-gobiernu-amplial-presupuestu-pa-lluchar-contra-laviespa-asiatica">El Gobiernu amplía&#039;l presupuestu pa lluchar contra l&#039;aviespa asiática</a>  </li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+          <a href="/noticies/el-gobiernu-decreta-la-reapertura-de-la-ria-del-eo-pa-la-estraicion-de-moluscos">El Gobiernu decreta la reapertura de la ría del Eo pa la estraición de moluscos</a>  </li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block -->  </div>
+	        </div>
+		  </div>
+                		  <div class="user-region width25">
+		    <div class="user-region-inner">
+                <div class="region region-user3">
+    <div id="block-views-bloque_noticies_llingua-block_1" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">Llingua</h3>
+    
+  <div class="content">
+    <div class="view view-bloque-noticies-llingua view-id-bloque_noticies_llingua view-display-id-block_1 view-dom-id-3ccbd6156284d33fc8574de7c79b5fce">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+          <a href="/noticies/danone-incorpora-lasturianu-na-promocion-de-los-sos-productos">Danone incorpora l&#039;asturianu na promoción de los sos productos</a>  </li>
+          <li class="views-row views-row-2 views-row-even">  
+          <a href="/noticies/carreno-va-contar-con-un-festival-del-llibru-y-de-la-cultura-asturiana-con-vocacion-anal">Carreño va contar con un festival del llibru y de la cultura asturiana con vocación añal</a>  </li>
+          <li class="views-row views-row-3 views-row-odd">  
+          <a href="/noticies/el-snl-de-llena-va-repartir-5000-pegatines-nel-area-de-pediatria-del-centru-de-salu-de-la">El SNL de Ḷḷena va repartir 5.000 pegatines nel área de Pediatría del Centru de Salú de La Pola</a>  </li>
+          <li class="views-row views-row-4 views-row-even">  
+          <a href="/noticies/lusu-del-idioma-pol-presidente-del-pais-meyor-noticia-pal-asturianu-en-2019">L&#039;usu del idioma pol presidente del país, &#039;Meyor noticia pal asturianu en 2019&#039;</a>  </li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+          <a href="/noticies/abierta-la-matricula-pa-la-prueba-de-conocencia-de-lalla-de-xineru">Abierta la matrícula pa la prueba de conocencia de l&#039;ALLA de xineru</a>  </li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-views-be97974791f7f97e4a80a0069946e9ce" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">Economia</h3>
+    
+  <div class="content">
+    <div class="view view-bloque-noticies-economia view-id-bloque_noticies_economia view-display-id-block_1 view-dom-id-20ff1b99605c202115552ffe010ae307">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+          <a href="/noticies/timmermans-dirixese-a-los-mineros-dasturies-na-presentacion-del-plan-pafrontar-la">Timmermans diríxese “a los mineros d’Asturies” na presentación del plan p’afrontar la descarbonización</a>  </li>
+          <li class="views-row views-row-2 views-row-even">  
+          <a href="/noticies/asturies-fina-lanu-con-69957-paraos-2847-menos-que-lanterior">Asturies fina l’añu con 69.957 paraos, 2.847 menos que l’anterior</a>  </li>
+          <li class="views-row views-row-3 views-row-odd">  
+          <a href="/noticies/los-trabayadores-de-supermercaos-caltienen-la-fuelga-convocada">Los trabayadores de supermercaos caltienen la fuelga convocada</a>  </li>
+          <li class="views-row views-row-4 views-row-even">  
+          <a href="/noticies/asturies-acumulal-cuartu-mes-de-medra-del-paru">Asturies acumula&#039;l cuartu mes de medra del paru</a>  </li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+          <a href="/noticies/trabayadores-de-supermercaos-y-de-la-itv-van-facer-fuelga">Trabayadores de supermercaos y de la ITV van facer fuelga</a>  </li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block -->  </div>
+		    </div>
+		  </div>
+        				  <div class="user-region width25">
+		    <div class="user-region-inner">
+                <div class="region region-user4">
+    <div id="block-views-bloque_noticies_musica-block_1" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">Música</h3>
+    
+  <div class="content">
+    <div class="view view-bloque-noticies-musica view-id-bloque_noticies_musica view-display-id-block_1 view-dom-id-e32c0b48f159e2a3eaf19c6189243b59">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+          <a href="/noticies/en-prefiero-ver-llover-hai-un-cambiu-estilisticu-bastante-importante-asegura-silvia-quesada">“En ‘Prefiero ver llover’ hai un cambiu estilísticu bastante importante”, asegura Silvia Quesada</a>  </li>
+          <li class="views-row views-row-2 views-row-even">  
+          <a href="/noticies/sentimos-la-necesida-de-cantar-dalgo-diferente-y-contar-dalgo-diferente-apunta-elola">“Sentimos la necesidá de cantar dalgo diferente y contar dalgo diferente”, apunta Elola</a>  </li>
+          <li class="views-row views-row-3 views-row-odd">  
+          <a href="/noticies/lucia-fernandez-llevol-iv-sacame-pola-pinta-pola-so-imitacion-de-la-llangreana-marisa-valle">Lucía Fernández llevó’l IV ‘Sácame pola pinta’ pola so imitación de la llangreana Marisa Valle Roso</a>  </li>
+          <li class="views-row views-row-4 views-row-even">  
+          <a href="/noticies/los-diez-finalistes-del-iv-sacame-pola-pinta-busquen-la-victoria-na-gala-final">Los diez finalistes del IV &#039;Sácame pola pinta&#039; busquen la victoria na gala final</a>  </li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+          <a href="/noticies/llaceria-rock-toca-en-lluanco-20-anos-depues">Llaceria Rock toca en Lluanco &quot;20 años depués&quot;</a>  </li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-views-ad2594b18401fb27b91a12c43ed57294" class="block block-views"><div class="block-inner">
+  
+   
+        <h3 class="title block-title">Ciencia y tecnoloxía</h3>
+    
+  <div class="content">
+    <div class="view view-bloque-noticies-nuevestecnoloxie view-id-bloque_noticies_nuevestecnoloxie view-display-id-block_1 view-dom-id-cec7904e65e9be4a582c2f7e762f35ad">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+          <a href="/noticies/el-csic-edita-un-calendariu-escolar-cientificu-en-cinco-llingues-ente-elles-lasturianu">El CSIC edita un calendariu escolar científicu en cinco llingües, ente elles l&#039;asturianu</a>  </li>
+          <li class="views-row views-row-2 views-row-even">  
+          <a href="/noticies/asturies-va-anovar-la-rede-de-fibra-optica-pameyorar-el-serviciu">Asturies va anovar la rede de fibra óptica p&#039;ameyorar el serviciu</a>  </li>
+          <li class="views-row views-row-3 views-row-odd">  
+          <a href="/noticies/fina-la-bioquimica-margarita-salas">Fina la bioquímica Margarita Salas</a>  </li>
+          <li class="views-row views-row-4 views-row-even">  
+          <a href="/noticies/line-va-controlar-los-nuesos-dispositivos-moviles-per-8-dies">L&#039;INE va controlar los nuesos dispositivos móviles per 8 díes</a>  </li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+          <a href="/noticies/astura-principia-temporada-con-una-conferencia-sobre-les-especies-invasores">Ástura principia temporada con una conferencia sobre les especies invasores</a>  </li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div></div> <!-- /block-inner, /block -->  </div>
+		    </div>
+		  </div>
+              </div></div><!-- End of Top User Regions -->
+      
+  </div></div><!-- page-wrapper -->
+  
+<!-- The All Knowing All Seeing Footer Block -->
+    	  <div id="footer"><div class="width-wrapper"><div class="footer-inner clearfix">
+
+<!-- Footer User Regions -->
+    
+      <div id="footer-user-regions"><div class="footer-user-regions-inner clearfix">
+				  <div class="user-region width33">
+		    <div class="user-region-inner divider">
+                <div class="region region-user5">
+    <div id="block-block-57" class="block block-block"><div class="block-inner">
+  
+   
+    
+  <div class="content">
+    <ul>
+<li><a href="/seccion/asturies">Asturies</a></li>
+<li><a href="/seccion/cultura">Cultura</a></li>
+<li><a href="/seccion/economia">Economía</a></li>
+<li><a href="/seccion/llingua">Llingua Asturiana</a></li>
+<li><a href="/seccion/musica">Música</a></li>
+<li><a href="/seccion/deportes">Deportes</a></li>
+<li><a href="/seccion/tecnoloxies">Ciencia y Tecnoloxía</a></li>
+<li><a href="/seccion/espana">España</a></li>
+<li><a href="/seccion/mundu">Mundu</a></li>
+<li><a href="/seccion/ecoloxia">Ecoloxía</a></li>
+</ul>
+  </div>
+
+</div></div> <!-- /block-inner, /block -->  </div>
+		    </div>
+		  </div>
+                        		  <div class="user-region width33">
+		    <div class="user-region-inner divider">
+                <div class="region region-user7">
+    <div id="block-block-58" class="block block-block"><div class="block-inner">
+  
+   
+    
+  <div class="content">
+    <ul>
+<li><a href="/alagueta">A la Gueta los Sueños</a></li>
+<li><a href="/espaciuytiempu">Espaciu y Tiempu</a></li>
+</ul>
+</p>
+<ul>
+<li><a href="/somos">Quién somos</a></li>
+<li><a href="/contactu">Contacta con nos</a></li>
+</ul>
+</p>
+<ul>
+<li><a href="/paxinapolítica-de-privacidá-y-cookies">Política de privacidá y cookies</a></li>
+</ul>
+</p>
+<ul>
+<li><a href="/mapa">Mapa del Web</a></li>
+</ul>
+  </div>
+
+</div></div> <!-- /block-inner, /block -->  </div>
+		    </div>
+		  </div>
+        				  <div class="user-region width33">
+		    <div class="user-region-inner">
+                <div class="region region-user8">
+    <div id="block-block-15" class="block block-block"><div class="block-inner">
+  
+   
+    
+  <div class="content">
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1678817-1', 'auto');
+  ga('send', 'pageview');
+
+</script>  </div>
+
+</div></div> <!-- /block-inner, /block --><div id="block-block-43" class="block block-block"><div class="block-inner">
+  
+   
+    
+  <div class="content">
+    <div><img alt="Coneyería d'Educación y Cultura" src="http://asturies.com/sites/default/files/logo_conseyeria.jpg" /></div>
+  </div>
+
+</div></div> <!-- /block-inner, /block -->  </div>
+		    </div>
+		  </div>
+              </div></div><!-- End of Bottom User Regions -->
+	
+      </div></div></div><!-- /footer -->
+	  
+</div></div>  
+  
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var eu_cookie_compliance_cookie_name = "";
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://asturies.com/sites/all/modules/eu_cookie_compliance/js/eu_cookie_compliance.js?q3alxf"></script>
+  
+</body>
+</html>  
+
+
+<!-- Page cached by Boost @ 2020-01-16 18:39:13, expires @ 2020-01-16 19:39:13, lifetime 1 hora -->

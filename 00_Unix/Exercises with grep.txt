@@ -1,0 +1,17 @@
+Last login: Thu Apr 16 21:44:49 on ttys000
+(base) MBP-de-Santi:~ santiarroniz$ cd Desktop/L-545/
+(base) MBP-de-Santi:L-545 santiarroniz$ gsed 's/[^a-zA-Z]\+/\n/g' < wiki.txt | grep -c '^[A-Z]' # uppercase words
+2576024
+(base) MBP-de-Santi:L-545 santiarroniz$ gsed 's/[^a-zA-Z]\+/\n/g' < wiki.txt | grep -c '^[a-z]' # lowercase words
+13152396
+(base) MBP-de-Santi:L-545 santiarroniz$ gsed 's/[^a-zA-Z]\+/\n/g' < wiki.txt | grep -c '^[a-z][a-z][a-z][a-z]$' # 4-letter words
+1220573
+(base) MBP-de-Santi:L-545 santiarroniz$ gsed 's/[^a-zA-Z]\+/\n/g' < wiki.txt | grep -c ‘[^a-zA-Z]’ # with no vowels
+0
+(base) MBP-de-Santi:L-545 santiarroniz$ gsed 's/[^a-zA-Z]\+/\n/g' < wiki.txt | grep -c ^[^aeiouáéíóú]*[aeiouáéíóú][^aeiouáéíóú]*$ # 1-syllable words
+5543304
+(base) MBP-de-Santi:L-545 santiarroniz$ gsed 's/[^a-zA-Z]\+/\n/g' < wiki.txt | grep -c ^[^aeiouáéíóú]*[aeiouáéíóú]·*[aeiouáéíóú][^aeiouáéíóú]*$ # 2-syllable words
+581122
+(base) MBP-de-Santi:L-545 santiarroniz$ 
+
+

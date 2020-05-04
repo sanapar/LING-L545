@@ -1,0 +1,49 @@
+(base) MBP-de-Santi:L-545 santiarroniz$ cat test.txt | python3 segmenter.py | python3 tokenizer.py
+sentence ID = 1
+sentence = This is a string of words to test if the tokenizer works .
+
+1 This   _    _    _    _    _    _    _    _
+2 is   _    _    _    _    _    _    _    _
+3 a   _    _    _    _    _    _    _    _
+4 string   _    _    _    _    _    _    _    _
+5 of   _    _    _    _    _    _    _    _
+6 words   _    _    _    _    _    _    _    _
+7 to   _    _    _    _    _    _    _    _
+8 test   _    _    _    _    _    _    _    _
+9 if   _    _    _    _    _    _    _    _
+10 the   _    _    _    _    _    _    _    _
+11 tokenizer   _    _    _    _    _    _    _    _
+12 works   _    _    _    _    _    _    _    _
+13 .
+   _    _    _    _    _    _    _    _
+sentence ID = 2
+sentence =  Hopefully it will work .
+
+1    _    _    _    _    _    _    _    _
+2 Hopefully   _    _    _    _    _    _    _    _
+3 it   _    _    _    _    _    _    _    _
+4 will   _    _    _    _    _    _    _    _
+5 work   _    _    _    _    _    _    _    _
+6 .
+   _    _    _    _    _    _    _    _
+sentence ID = 3
+sentence =  Otherwise , I will have to try again .
+
+1    _    _    _    _    _    _    _    _
+2 Otherwise   _    _    _    _    _    _    _    _
+3 ,   _    _    _    _    _    _    _    _
+4 I   _    _    _    _    _    _    _    _
+5 will   _    _    _    _    _    _    _    _
+6 have   _    _    _    _    _    _    _    _
+7 to   _    _    _    _    _    _    _    _
+8 try   _    _    _    _    _    _    _    _
+9 again   _    _    _    _    _    _    _    _
+10 .
+   _    _    _    _    _    _    _    _
+sentence ID = 4
+sentence =  
+
+1    _    _    _    _    _    _    _    _
+2 
+   _    _    _    _    _    _    _    _
+(base) MBP-de-Santi:L-545 santiarroniz$ 

@@ -1,0 +1,11 @@
+Multichar_Symbols
+
+%>                   ! Frontera de morfema
+%<n%>                ! Nombre
+%<gen%>              ! Genitivo
+%<loc%>              ! Locativo
+%<der_kue%>          ! Pasado Nominal
+%<comp%>             ! Compuesto
+%<pl%>               ! Plural Nouns
+%{s%}                ! Loan Words
+%{d%}                ! Nasal alternation

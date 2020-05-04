@@ -1,0 +1,32 @@
+DELIMITERS = "." ;
+
+LIST ALL = ADJ ADP ADV AUX CCONJ DET INTJ NOUN NUM PART PRON PROPN PUNCT SCONJ SYM VERB X ;
+LIST DET = DET ;
+LIST PUNCT = PUNCT ;
+LIST ADJ = ADJ ;
+LIST NOUN = NOUN ;
+LIST ADP = ADP ;
+LIST NOM = NOUN DET PRON ;
+LIST ADV = ADV ;
+LIST PRON = PRON ;
+LIST CONJ = CCONJ ;
+
+SECTION
+
+# Remove the determiner if the token is followed by the delimiter.
+REMOVE DET IF (1C PUNCT) ;
+
+# Remove the noun reading if the token is followed by another noun.
+REMOVE NOUN IF (1 NOUN) ;
+
+# In a prepositional phrase, remove everything except "ADP" if the following token is "n" or "adj".
+REMOVE ALL - ADP IF (1C NOM) ;
+
+# If "más" is followed by an ADJ, select ADV
+"<más>" SELECT (ADV) (1C ADJ) ;
+
+# Remove pronoun and select DET if the following token is a noun.
+SELECT DET IF (1 NOUN OR (ADJ)) ;
+
+# If "que" is followed by a NOM, PUNCT, VERB or AUX, select CCONJ/SCONJ
+"<que>" SELECT (SCONJ) OR (CCONJ) (1C NOM OR (PUNCT) OR (VERB) OR (AUX)) ;
